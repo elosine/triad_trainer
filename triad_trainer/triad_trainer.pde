@@ -9,7 +9,7 @@ String[][] tr ={ {"C", "E", "G"}, {"D", "F", "A"},
 
 void setup() {
   size(500, 500);
-  f1 = loadFont("Monaco-60.vlw");
+  f1 = loadFont("Monaco-100.vlw");
   textFont(f1);
   n = int(random(7));
 }
